@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/hqGZew7ZvxxlLkYzG2S/L9Ya0Y0xIUMD57OUMzR+nmBG7FT3KcJB6HHMtgM2aPtdAER8Flj7IZfF+30EoTT1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\renatovmi2021\\source\\repos\\ApiDokerPostman\\ApiDokerPostman\\ApiDokerPostman.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\renatovmi2021\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\renatovmi2021\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\renatovmi2021\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\renatovmi2021\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\renatovmi2021\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\renatovmi2021\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
